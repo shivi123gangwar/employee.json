@@ -1,0 +1,34 @@
+{"member":[{
+"employeeName":"Rahul Singh",
+"employeeId":"AP123CK",
+"imgUrl":"https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAiAAAAAJGYzZGMyZWRkLTAzZjItNGZlZC05Nzg4LTJkY2ZkMGE0YTA1Zg.png",
+"doj":"10-May-2017",
+"reportingManager":"Mukesh Kumar",
+"casualLeave":{
+"openingBalance":0.00,
+"leavesAccured":7,
+"leavesAvailed":6,
+"leaveBalance":{
+"monthEnd":1,
+"yearEnd":1
+}
+},
+"medicalLeave":{
+"openingBalance":18,
+"leavesAccured":7,
+"leavesAvailed":0.00,
+"leaveBalance":{
+"monthEnd":25,
+"yearEnd":25
+}
+},
+"privilegeLeave":{
+"openingBalance":21.50,
+"leavesAccured":13.50,
+"leavesAvailed":10,
+"leaveBalance":{
+"monthEnd":25,
+"yearEnd":29.50
+}
+}
+}]}
