@@ -9,7 +9,7 @@
 "leaveCategory":{
  "firstCtgry":"Annual",
  "secondCtgry":"Monthly",
- "thirdCtgry":"Twice",
+ "thirdCtgry":"Weekly",
  "fourthCtgry":"Once" 
 },
 "leaveType":{
