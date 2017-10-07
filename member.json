@@ -6,6 +6,17 @@
 "welcome":"Welcome Mr. Rahul Singh",
 "doj":"10-May-2017",
 "reportingManager":"Mukesh Kumar",
+"leaveCategory":{
+ "firstCtgry":"Annual",
+ "secondCtgry":"Monthly",
+ "thirdCtgry":"Twice",
+ "fourthCtgry":"Once" 
+},
+"leaveType":{
+  "firstType":"Casual",
+ "secondType":"Medical",
+ "thirdType":"Privilege"
+},
 "casualLeave":{
 "openingBalance":0.00,
 "leavesAccured":7,
